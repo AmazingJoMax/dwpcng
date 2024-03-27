@@ -50,6 +50,7 @@
         <a
           href="https://www.youtube.com/@dwpcng4789"
           class="px-4 py-2 rounded-md border-2 border-white border-solid w-fit hover:bg-white hover:text-black"
+          target="_blank"
           >GO TO YouTube</a
         >
       </div>
