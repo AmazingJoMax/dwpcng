@@ -41,7 +41,7 @@
           <span class="nav-underline"></span>
         </div>
         <div>
-          <RouterLink :to="{ name: 'watch' }">LIVE</RouterLink>
+          <RouterLink :to="{ name: 'live' }">LIVE</RouterLink>
           <span class="nav-underline"></span>
         </div>
         <!-- <div>

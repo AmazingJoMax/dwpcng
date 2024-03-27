@@ -6,7 +6,7 @@
   >
     <RouterLink :to="{ name: 'home' }">HOME</RouterLink>
     <RouterLink :to="{ name: 'about' }">ABOUT US</RouterLink>
-    <RouterLink :to="{ name: 'watch' }">LIVE</RouterLink>
+    <RouterLink :to="{ name: 'live' }">LIVE</RouterLink>
     <!-- <RouterLink :to="{ name: 'home' }">HOME</RouterLink> -->
     <!-- <RouterLink :to="{ name: 'downloads' }">DOWNLOADS</RouterLink> -->
     <RouterLink :to="{ name: 'contact' }">CONTACT US</RouterLink>
