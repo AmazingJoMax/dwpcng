@@ -1,5 +1,5 @@
 <template>
-  <div class="about">
+  <div class="about bg-white">
     <!-- Hero -->
     <div id="hero_about" class="">
     </div>

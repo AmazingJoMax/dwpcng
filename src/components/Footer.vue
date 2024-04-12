@@ -9,4 +9,4 @@
   import SocialLinks from "./SocialLinks.vue"
 </script>
 
-<style lang="scss" scoped></style>
+<style scoped></style>
